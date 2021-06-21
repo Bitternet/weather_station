@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>resource/hotpng.com.png</file>
+        <file>resource/icons8-подтверждение-и-обновление-48.png</file>
+        <file>resource/icons8-сеть-48.png</file>
+        <file>resource/off.png</file>
+        <file>resource/on.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>resource/icon.png</file>
+        <file>resource/pressure.png</file>
+        <file>resource/config-48.png</file>
+    </qresource>
+</RCC>
